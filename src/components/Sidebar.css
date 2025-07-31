@@ -1,0 +1,31 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.sidebar__header {
+  padding: 20px;
+  border-bottom: 1px solid #404040;
+}
+
+.sidebar__channels {
+  flex: 1;
+}
+
+.sidebar__profile {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-top: 1px solid #404040;
+}
+
+.sidebar__profileInfo {
+  margin-left: 10px;
+}
+
+.sidebar__profileIcons {
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+}
