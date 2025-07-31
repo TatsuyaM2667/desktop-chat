@@ -126,8 +126,3 @@ npm run build
 npm run electron-start
     ```
 
-<<<<<<< HEAD
-これにより、デスクトップアプリケーションのウィンドウが開きます。
-=======
-This will open the desktop application window.
->>>>>>> 695f420fed6ba0d16112455856fc02d225a16ecc
