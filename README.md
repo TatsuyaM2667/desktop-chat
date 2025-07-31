@@ -117,12 +117,12 @@ service cloud.firestore {
 1.  **React アプリのビルド:**
 
     ```bash
-npm run build
+    npm run build
     ```
 
 2.  **Electron アプリの起動:**
 
     ```bash
-npm run electron-start
+    npm run electron-start
     ```
 
