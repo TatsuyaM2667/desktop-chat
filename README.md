@@ -14,7 +14,7 @@
 
 ## 使用技術
 
--   **フロントエンド:** React.js  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react&titles=true)
+-   **フロントエンド:** React.js  
 -   **デスクトップフレームワーク:** Electron
 -   **UI ライブラリ:** Material-UI (MUI)
 -   **バックエンド/データベース/認証:** Firebase (Firestore, Authentication)
