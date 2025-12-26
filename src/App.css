@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  flex: 0.25;
+  background-color: #2f3136;
+}
+
+.chat {
+  flex: 0.75;
+  background-color: #36393f;
+}
