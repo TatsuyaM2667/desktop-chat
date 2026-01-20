@@ -125,4 +125,5 @@ service cloud.firestore {
     ```bash
     npm run electron-start
     ```
-
+## License
+MIT License (Attribution Required — © 2025 TatsuyaM2667)
